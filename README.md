@@ -2,7 +2,7 @@
 
 - 🌱 Aprendendo desenvolvimento de software e engenharia de dados
 - 😄 Ele/Ele
-- ⚡ Café > Coca-Cola 
+- ⚡ Café > Coca
 
 <div align="">
   <a href="https://github.com/MiMghtt">
