@@ -1,9 +1,5 @@
 **Padawan em constante aprendizado 👋**
 
-- 🌱 Aprendendo desenvolvimento de software e engenharia de dados
-- 😄 Ele/Ele
-- ⚡ Café > Coca
-
 <div align="">
   <a href="https://github.com/MiMghtt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiMghtt&layout=compact&langs_count=7&theme=dracula"/>
